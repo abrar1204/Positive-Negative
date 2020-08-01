@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PN
+public class PosNeg
 {
   public static void main( String[] args)
   {
