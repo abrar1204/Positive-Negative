@@ -13,15 +13,15 @@ public class PN
     
       if (interger > 0) 
        {
-      System.out.println( "You have a postiveeeeeeee number!" );
+      System.out.println( "You have a postive number!" );
     }
     else if ( interger < 0 ) // negative
     {
-      System.out.println( "You have a negativeeeeeeeeee number!" );
+      System.out.println( "You have a negative number!" );
     }
     else
     {
-      System.out.println( "0 is a boringgggggggg number." );
+      System.out.println( "0 is an uninteresing number." );
     }
                          }
   }
